@@ -1,5 +1,5 @@
 {
-  "name": "visualwidth",
+  "name": "@leichtgewicht/visualwidth",
   "version": "0.0.1",
   "description": "unicode character visual width",
   "main": "visualwidth.js",
